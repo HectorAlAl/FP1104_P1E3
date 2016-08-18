@@ -32,3 +32,7 @@ mismo tipo, pero de menor tamaño. Si los subproblemas son todavía relativament
 grandes se aplicará de nuevo esta técnica hasta alcanzar subproblemas lo
 suficientemente pequeños para ser solucionados directamente. Ello naturalmente
 sugiere el uso de la recursión en las implementaciones de estos algoritmos. 
+
+Grafica 3D (ROSA)
+100-3/(sqrt(x^2+y^2))+sin(sqrt(x^2+y^2))+sqrt(200-(x^2+y^2)+10*sin(x)+10sin(y))/1000, x is from -15 to 15, y is from -15 to 15, z is from
+90 to 101
