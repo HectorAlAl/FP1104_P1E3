@@ -15,3 +15,20 @@ La labor de Ada no fue reconocida hasta que finalmente John von Neumann y Alan M
 A los 29 años Ada Byron enfermó gravemente y para siempre. Después de muchos años de sufrimiento murió a los 37 años el 23 de noviembre de 1852. 
 Como Ada siempre había pedido, su cuerpo fue enterrado junto al de su padre a quien nunca conoció. 
 En la década de los 80 el Departamento de Defensa de los Estados Unidos de América desarrolló un lenguaje de programación en honor a la condesa, al cual nombró ADA.
+
+
+Algoritmo
+
+ Divide y Vencerás es una técnica de diseño de algoritmos
+que consiste en resolver un problema a partir de la solución de subproblemas del
+mismo tipo, pero de menor tamaño. Si los subproblemas son todavía relativamente
+grandes se aplicará de nuevo esta técnica hasta alcanzar subproblemas lo
+suficientemente pequeños para ser solucionados directamente. Ello naturalmente
+sugiere el uso de la recursión en las implementaciones de estos algoritmos. 
+
+Divide y Vencerás es una técnica de diseño de algoritmos
+que consiste en resolver un problema a partir de la solución de subproblemas del
+mismo tipo, pero de menor tamaño. Si los subproblemas son todavía relativamente
+grandes se aplicará de nuevo esta técnica hasta alcanzar subproblemas lo
+suficientemente pequeños para ser solucionados directamente. Ello naturalmente
+sugiere el uso de la recursión en las implementaciones de estos algoritmos. 
